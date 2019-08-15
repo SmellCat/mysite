@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 
-__author = "zhanghaixin"
+__author__ = "Atituiset"
 
 from django.http import HttpResponse, Http404
 import datetime

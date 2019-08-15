@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 
-__author = "zhanghaixin"
+__author__ = "Atituiset"
 
 import os
 os.system(r'G:\Project\Python\env_python3_mysite\Scripts\activate')
